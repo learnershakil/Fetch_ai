@@ -41,7 +41,7 @@ The Daily News Agent is a lightweight and customizable news aggregation tool bui
 4. **Run the agent:**
 
     ```bash
-    python news_agent.py
+    python agent.py
     ```
 
 ## Configuration
